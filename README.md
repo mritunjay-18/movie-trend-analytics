@@ -1,5 +1,5 @@
 # 🎬 Netflix Movie Trend Analytics & Recommender
-
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movie-trend-analytics.streamlit.app/)
 **A full-stack data science project analyzing Netflix content trends and recommending movies.**
 
 ## 📌 Overview
