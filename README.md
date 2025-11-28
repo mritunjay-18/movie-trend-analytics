@@ -37,6 +37,8 @@ movie-trend-analytics/
 │   └── movie_dashboard.pbix     # Power BI File
 ├── requirements.txt             # Python Dependencies
 └── README.md
+
+```
 ## 🛠 Tech Stack
 * **Language:** Python 3.10+
 * **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
